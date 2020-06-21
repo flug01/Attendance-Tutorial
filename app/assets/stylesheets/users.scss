@@ -5,6 +5,17 @@
   text-align: center;
 }
 
+#table-attendaces {
+  th {
+    vertical-align: middle;
+    text-align: center;
+  }
+  td {
+    vertical-align: middle;
+    text-align: center;
+  }
+}
+
 .label-signup {
   margin-top: 5px;
 }
@@ -19,6 +30,12 @@
 
 .btn-user--edit {
   margin-top: 10px;
+}
+
+#table-users {
+  td {
+    vertical-align: middle;
+  }
 }
 
 #table-users {
